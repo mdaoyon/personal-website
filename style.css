@@ -41,7 +41,7 @@ p{
 }
 section {
     width: 100%;
-    padding-bottom: 80%;
+    padding-bottom: 60%;
     
 }
 h3{
@@ -51,6 +51,68 @@ h4{
     text-align: center;
     font-size: 30px;
 }
+.latest-work{
+    width: 100%;
+    padding-bottom: 28%;
+}
+.latest-work img{
+    width: 100%;
+}
+#first{
+    width: 27%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+}
+#second{
+    width: 27%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+}
+#third{
+    width: 27%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+}
+h5{
+    text-align: center;
+}
+.founder{
+    text-align: center;
+    color: dimgray;
+    font-size: x-small;
+}
+.Thanks{
+    text-align: center;
+    color: black;
+}
+.email{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 2%;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    background-color: hotpink;
+    margin: 0 auto;
+}
+span{
+    font-size: 15px;
+}
+.footer{
+    width: 100%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
+}
+
 
 
 
